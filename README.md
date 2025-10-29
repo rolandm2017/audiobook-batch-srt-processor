@@ -2,7 +2,7 @@
 
 This repo aims to help language learners process large batches of audiobook files into .SRT files.
 
-*Be sure to read the **warning** at the bottom of the Readme before using the script.*
+*Be sure to read the **warning** at the bottom of the Readme before using the script. **Back up your folder before using the script.***
 
 The .srt files will enable *interactive immersion* using LanguageReactor.
 
