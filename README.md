@@ -10,6 +10,14 @@ That is, with the .srt file made, you can upload the audiobook .mp3/.wav file, a
 
 ## How to use
 
+### Configuring the script
+
+- starting_dir in audiobooks.queue.py is the parent folder of all your audiobooks.
+
+- You must modify whisperx_commands.py to contain the right configuration for your language of choice.
+
+### Steps to run the script
+
 The way I run it on my computer is that I change "starting_dir" in audiobooks.queue.py to point to a folder that contains my audiobook file folders.
 
 Said another way, I expect that you keep all your audiobooks in the same folder; just a bunch of folders containing *solely, only* mp3 or .wav files.
